@@ -6,4 +6,4 @@ Animate and connect your ideas with interactive floating thought bubbles.
 
 ## Live Demo
 
-You can check out the live demo [here](https://neilhkim.github.io/Train-Of-Thoughtfulness/).
+You can check out the live demo [here](https://neilhkim.github.io/Float-Links/).
